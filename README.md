@@ -82,6 +82,7 @@
 - [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu)
 - [Shodan](https://monitor.shodan.io)
 - [Vehicle Osint](https://github.com/TheBurnsy/Vehicle-OSINT-Collection)
+- [Truecaller](https://www.truecaller.com)
 
 ## Reverse Engineering
 - `function main (int argc, char ** argv)` - edit
