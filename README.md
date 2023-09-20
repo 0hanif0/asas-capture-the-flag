@@ -72,6 +72,7 @@
 - [Icone Editor](https://redketchup.io/icon-editor)
 - [Magic Eraser](https://magicstudio.com/magiceraser/)
 - [Remove Video Background](https://www.unscreen.com)
+- [Piano](https://signal.vercel.app/edit)
 
 ## OSINT
 - [Face reverse image search](https://pimeyes.com/en)
@@ -112,11 +113,9 @@
 - [Javascript Beautifier](https://codebeautify.org/jsviewer)
 - [JSON Web Token](https://jwt.io)
 - [Webhook](https://pipedream.com/requestbin)
+- [Webhook](https://webhook.site)
 - [JavaScript Deobfuscator](https://lelinhtinh.github.io/de4js/)
 - [Adminer](https://www.adminer.org/en/)
 - [Crontab](https://crontab.guru)
 - [Reverse Shell Generator](https://www.revshells.com)
-- [PDF DRIVE](https://www.pdfdrive.com), [Library Genesis](https://libgen.is)
 - [HackTrikcs](https://book.hacktricks.xyz/welcome/readme)
-- [Pentest Cheat](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
-- [FreeProxiList](https://www.freeproxylists.net)
