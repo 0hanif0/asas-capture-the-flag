@@ -37,6 +37,8 @@
 - [HTML character codes](https://www.rapidtables.com/web/html/html-codes.html)
 - [RSA](https://github.com/RsaCtfTool/RsaCtfTool)
 - [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/)
+- [Twitter Secret Messages](https://holloway.nz/steg/)
+- [JSUnFuck](http://codertab.com/JsUnFuck)
 
 ## Forensics
 - `file <file>`
@@ -73,6 +75,8 @@
 - [Magic Eraser](https://magicstudio.com/magiceraser/)
 - [Remove Video Background](https://www.unscreen.com)
 - [Piano](https://signal.vercel.app/edit)
+- [File Identifier](https://www.toolsley.com/file.html)
+- [Color Picker](https://imagecolorpicker.com)
 
 ## OSINT
 - [Face reverse image search](https://pimeyes.com/en)
@@ -119,3 +123,5 @@
 - [Crontab](https://crontab.guru)
 - [Reverse Shell Generator](https://www.revshells.com)
 - [HackTrikcs](https://book.hacktricks.xyz/welcome/readme)
+- [Pentest](https://appsecexplained.gitbook.io/appsecexplained/)
+- [Code Beautify](https://codebeautify.org)
