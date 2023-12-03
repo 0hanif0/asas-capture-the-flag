@@ -1,4 +1,4 @@
-# ASAS CTF 
+# TOOLS ASAS CTF 
 
 ## General Skills
 - `cat <file>` - print content
@@ -11,25 +11,32 @@
 - `strings <file>` - see strings
 - `nc <web.com> <port>` - netcat
 - `file <file>` - file type
+- `wget <link>` - download file
 
 ## Cryptography
 - [ROT 1-25](https://rot13.com/) [ROT 47](https://www.boxentriq.com/code-breaking/rot13)
 - [Boxentriq](https://www.boxentriq.com)
+- [Ninja](https://scwf.dima.ninja)
 - [Base64](https://www.base64decode.org)
 - [ASCII, Hex, Bin, Dec](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
+- [ASCII Table](https://www.asciitable.com)
+- [Binary Calculator](https://www.rapidtables.com/calc/math/binary-calculator.html)
 - [quipqiup](https://quipqiup.com)
 - [Cipher Identifier](https://www.dcode.fr/cipher-identifier)
 - [Morse Code](http://www.unit-conversion.info/texttools/morse-code/)
+- [Morse Code Translator](https://morsecode.world/international/translator.html)
 - [URL encoded](https://www.urldecoder.org)
+- [HTML Char Codes](https://www.rapidtables.com/web/html/html-codes.html)
 - [Base32](https://emn178.github.io/online-tools/base32_decode.html)
+- [Base64 to Image](https://base64.guru/converter/decode/image)
 - [cryptii](https://cryptii.com)
 - [Rumkin](https://rumkin.com/tools/cipher/)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [DCode Tools List](https://www.dcode.fr/tools-list)
 - [Hash Identifier](https://www.dcode.fr/hash-identifier)
 - [Integer factorization calculator](https://www.alpertron.com.ar/ECM.HTM)
+- [Unicode Steganography with Zero-Width Characters](https://330k.github.io/misc_tools/unicode_steganography.html)
 - [MD5 Hash Generator](https://www.md5hashgenerator.com)
-- [Ninja](https://scwf.dima.ninja)
 - [Malbolge](http://malbolge.doleczek.pl)
 - [Spam mimic](https://www.spammimic.com/index.cgi)
 - [Morse Code Adaptive Audio Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
@@ -39,6 +46,10 @@
 - [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/)
 - [Twitter Secret Messages](https://holloway.nz/steg/)
 - [JSUnFuck](http://codertab.com/JsUnFuck)
+- [Zodiac Typewriter](http://zodiackillerciphers.com/typewriter/)
+- [Audio Steganography Tool](https://www.darknet.org.uk/2019/03/deepsound-audio-steganography-tool/)
+- [Free Password Hash Cracker](https://crackstation.net/)
+- [JavaScript Deobfuscator and Unpacker](https://lelinhtinh.github.io/de4js/)
 
 ## Forensics
 - `file <file>`
@@ -53,20 +64,24 @@
 - [Steganography Online no password](https://stylesuxx.github.io/steganography/)
 - [Steganography Online with password](https://futureboy.us/stegano/decinput.html)
 - [StegOnline Colour & Bit Planes](https://stegonline.georgeom.net/upload)
+- [Online EXIF data viewer](https://jimpl.com/)
 - [Magic Eye Solver](http://magiceye.ecksdee.co.uk)
 - [Aperi Solve](https://aperisolve.fr)
 - [Pic2Map](https://www.pic2map.com)
 - [Online EXIF data viewer](https://jimpl.com/)
 - [List of file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - [Wireshark](https://www.wireshark.org/download.html)
+- [Pcap Pcapng Online](https://apackets.com/upload)
 - [HxD Editor](https://mh-nexus.de/en/hxd/)
 - [Hexed Online](https://hexed.it)
+- [Visualisation, analysis, and annotation of music audio recordings](https://www.sonicvisualiser.org)
 - [Audacity](https://www.audacityteam.org)
 - [Volatility](https://github.com/volatilityfoundation/volatility)
 - [Teserract ocr](https://github.com/tesseract-ocr/tesseract)
 - [QR Code Scanner](https://pageloot.com/qr-code-scanner/)
 - [Bar Code Scanner](https://zxing.org/w/decode.jspx)
 - [DTMF Tones](http://dialabc.com/sound/detect/)
+- [DTMF Button](https://unframework.github.io/dtmf-detect/#/grid)
 - [Unicode Steganography](https://330k.github.io/misc_tools/unicode_steganography.html)
 - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
 - [ImageForensic](https://www.imageforensic.org)
@@ -85,12 +100,11 @@
 - [Yandex Images](https://yandex.com/images/)
 - [Wayback Machine](https://archive.org/web/)
 - [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu)
-- [Shodan](https://monitor.shodan.io)
-- [Vehicle Osint](https://github.com/TheBurnsy/Vehicle-OSINT-Collection)
-- [Truecaller](https://www.truecaller.com)
+- [Discord Lookup](https://discordlookup.com/guild)
+- [Username Search](https://instantusername.com/#/)
 
 ## Reverse Engineering
-- `function main (int argc, char ** argv)` - edit
+- `function main (int argc, char ** argv)`
 - [Ghidra](https://ghidra-sre.org)
 - [JADX decompiler](https://github.com/skylot/jadx)
 - [PyInstaller Extractor](https://github.com/extremecoders-re/pyinstxtractor)
@@ -98,6 +112,10 @@
 - [Decompiler Online](https://www.decompiler.com)
 - [Decompiler Explorer](https://dogbolt.org)
 - [Windows Filename](https://www.echotrail.io)
+- [.NET debugger and assembly editor](https://github.com/dnSpy/dnSpy)
+- [Java Decompiler GUI](https://github.com/java-decompiler/jd-gui)
+- [dex2jar](https://github.com/pxb1988/dex2jar)
+- [PyC decompile](https://www.toolnb.com/tools-lang-en/pyc.html)
 
 ## Web
 - `/robots.txt`
